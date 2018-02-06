@@ -1,5 +1,5 @@
 ## This code stores a given matrix, and its inverse, in the cache in
-   order to using it frquently.
+   order to using it frequently.
 
 ## The following function stores a given matrix in the cache and its
    inverse if it is already calculated.
@@ -20,7 +20,7 @@ inv <- NULL
 
 
 ## The following function finds the inverse of the given matrix, if it
-   has not been calculated before.
+##   has not been calculated before.
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
