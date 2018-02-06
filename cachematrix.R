@@ -1,5 +1,5 @@
 ## This code stores a given matrix, and its inverse, in the cache in
-   order to using it frequently.
+##   order to using it frequently.
 
 ## The following function stores a given matrix in the cache and its
    inverse if it is already calculated.
